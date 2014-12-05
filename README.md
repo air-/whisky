@@ -1,4 +1,0 @@
-whisky
-======
-
-whisky framework
